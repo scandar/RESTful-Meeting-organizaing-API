@@ -1,4 +1,4 @@
-<h2>RESTful Meeting organizaing API</h2>
+<h2>RESTful Meeting organizing API</h2>
 
 <p>you can start by running</p>
 <pre>composer install</pre>
